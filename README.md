@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/hw-2-zyj1151/56a86f90f42bd335288a7002f7c1695d8b0e63da?urlpath=lab%2Ftree%2FLOSC_Event_tutorial.ipynb)
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/y12QcJaO)
 # HW 2: From Notebooks to Research Packages
 
